@@ -1,0 +1,1 @@
+{"name":"form-validation-testing","private":true,"scripts":{"test":"npx playwright test --reporter=list"},"devDependencies":{"@playwright/test":"^1.40.0"}}
